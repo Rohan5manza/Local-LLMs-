@@ -1,0 +1,54 @@
+00:00:00.015894 main     VirtualBox COM Server 6.1.34 r150636 win.amd64 (Mar 23 2022 00:36:21) release log
+00:00:00.015899 main     Log opened 2022-09-22T05:53:35.323192900Z
+00:00:00.015900 main     Build Type: release
+00:00:00.015910 main     OS Product: Windows 10
+00:00:00.015912 main     OS Release: 10.0.19044
+00:00:00.015913 main     OS Service Pack: 
+00:00:00.058081 main     DMI Product Name: ASUS TUF Gaming F15 FX506LH_FX566LH
+00:00:00.079962 main     DMI Product Version: 1.0
+00:00:00.080392 main     Firmware type: UEFI
+00:00:00.080774 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.082300 main     Host RAM: 8029MB (7.8GB) total, 1270MB available
+00:00:00.082865 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.082868 main     Process ID: 17544
+00:00:00.082869 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.271407          VirtualBox: object creation starts
+00:00:00.274412          Home directory: 'C:\Users\rohan\.VirtualBox'
+00:00:00.275115          Installed Drivers:
+00:00:00.281956            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.34.636)
+00:00:00.284236            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.34.636)
+00:00:00.287117            C:\Windows\system32\DRIVERS\VBoxSup.sys (Version: 6.1.34.636)
+00:00:00.289950            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.34.636)
+00:00:00.320055          usbLibGetDevices: Starting USB device enumeration
+00:00:00.322091          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:00:00.322213          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&16bab057&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:00:00.325003          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.328644          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x3563)
+00:00:00.328681          USB: Unknown USB device detected (idVendor: 0x322e, idProduct: 0x202c)
+00:00:00.532282          HostDnsMonitor: initializing
+00:00:00.539755          HostDnsMonitor: updating information
+00:00:00.540232          HostDnsMonitor: old information
+00:00:00.540234            no server entries
+00:00:00.540235            no domain set
+00:00:00.540235            no search string entries
+00:00:00.540235          HostDnsMonitor: new information
+00:00:00.540236            server 1: 192.168.216.186
+00:00:00.540236            no domain set
+00:00:00.540237            no search string entries
+00:00:00.618451          VD: VDInit finished with VINF_SUCCESS
+00:00:00.622082          VirtualBox: object created
+00:00:08.521336          Saving settings file "C:\Users\rohan\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:08.547498          Saving settings file "C:\Users\rohan\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:31.580914          Saving settings file "C:\Users\rohan\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:31.624650          Saving settings file "C:\Users\rohan\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:31.631659          Saving settings file "C:\Users\rohan\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:31.636321          Saving settings file "C:\Users\rohan\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:31.641900          Saving settings file "C:\Users\rohan\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:31.648939          Saving settings file "C:\Users\rohan\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:05.704688          Saving settings file "C:\Users\rohan\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:05.710692          Saving settings file "C:\Users\rohan\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:11.247947 main     VirtualBox: object deletion starts
+00:01:11.249971 main     HostDnsMonitor: shutting down ...
+00:01:11.250168 main     HostDnsMonitor: shut down
+00:01:11.257496 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:01:11.261536 main     VirtualBox: object deleted
