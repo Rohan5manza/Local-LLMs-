@@ -1,6 +1,6 @@
 # Local-LLMs-
 Projects wherein I run miniaturized Large Language models with custom modifications or enhancements, locally on my CPU
-
+Refer to main.py and ss folder for main content(remaining files were uploaded by mistake.)
 Popular LLM alternatives to Chat-GPT, are LLMs such as Llama-2, alpaca, LaMini-LM, etc; those that can be run locally on my computer, both on CPU or GPU.
 
 My project aim: to learn more about LLMs, and to build a metric calculating tool to monitor its performance and resource usage: tokens/second generated, pipelines used,GPU consumption, etc.
