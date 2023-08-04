@@ -10,3 +10,5 @@ Project aborted due to dependencies issues which cannot be solved.
 
 Part 2: LaMini-LM. Successfully completed project.
 Used text-generation-webUI called oobabooga , to create an interface to interact with the LLM. Refered to multiple online sources to complete the project.
+
+Definitely explore oobabooga more, amazing tool can download many different types of LLMs or HuggingFace models, ad play around with parameters, train or customize models,etc.
